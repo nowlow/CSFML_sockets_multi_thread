@@ -3,3 +3,5 @@ To build, type :
 ```shell
 make
 ```
+
+Enjoy all the bad code :)
